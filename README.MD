@@ -2,4 +2,4 @@ How to Run:
 .\rooster.exe
 
 Note:
-    This is an small Student Managing Project.
+    This is a small Student Managing Project.
